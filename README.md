@@ -63,7 +63,7 @@
 
 <br>
 
- **Extras**:
+ - **Extras**:
  
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
