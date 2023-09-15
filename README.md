@@ -17,8 +17,14 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+
+- Hello, I'm Danila Ovchinnikov, a passionate self-taught Front-end developer from Russia. Currently, I'm a computer science student actively learning web development on my own.
+
+- My passion for programming and web development has driven me to be a self-learner, always eager to learn something new. I'm constantly exploring new technologies and improving my skills.
+
+- In my free time, I also enjoy exploring new technologies and frameworks like Vue.js and React.js to expand my tech stack and create amazing web applications.
+
+- My goal is to continue growing as a developer and share my knowledge with the community.
 
 
 <br><br>
