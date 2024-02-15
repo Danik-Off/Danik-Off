@@ -58,13 +58,25 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Github Stats**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Statistics**
 
 <div align="center">
-  <a href="https://github.com/Danik-Off/">
-    <img src="https://github-readme-stats.vercel.app/api?username=Danik-Off&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Danik-Off&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danik-Off&theme=radical" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danik-Off&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<br>
 
 <br>
 
