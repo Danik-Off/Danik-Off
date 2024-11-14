@@ -1,85 +1,84 @@
-<h1 align="center"><b>Hello, I'm Ovchinnikov Danila! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
+# 👨‍💻 **Danila Ovchinnikov** — Frontend Developer
 
-<p align="center">
-  <a href="https://github.com/Danik-Off"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=From+Russia+with+love❤;Self-taught+Front-End+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuff..<3"></a>
-</p>
+Hello! I'm **Danila Ovchinnikov**, a passionate **frontend developer** specializing in **Angular** and **React**. I love building beautiful, functional, and high-performance user interfaces, solving complex problems, and creating engaging experiences. Here's a glimpse into my tech stack, projects, and how I approach development.
 
-<br>
+![Frontend Developer](https://media.giphy.com/media/3o7btRJjp6M97LIVmA/giphy.gif)
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"> **About me**
+---
 
-- Hello, I'm Danila Ovchinnikov, a passionate self-taught Front-end developer from Russia. Currently, I'm a computer science student actively learning web development on my own.
+## 🚀 **My Tech Stack**
 
-- My passion for programming and web development has driven me to be a self-learner, always eager to learn something new. I'm constantly exploring new technologies and improving my skills.
+### 🌍 **Frontend Frameworks**
+- **Angular**: A powerful framework for building large-scale applications with **RxJS** and **NgRx** for state management.
+- **React**: A lightweight library for building dynamic UIs, utilizing **Hooks** and **Context API**.
 
-- In my free time, I also enjoy exploring new technologies and frameworks like Angular and React to expand my tech stack and create amazing web applications.
+### 🛠️ **Technologies & Tools**
+- **TypeScript**: Type safety that makes the code more readable and maintainable.
+- **JavaScript**: The main language for creating interactive UIs.
+- **HTML5** & **CSS3**: Structuring and styling responsive, cross-browser applications.
+- **SASS/SCSS**: CSS preprocessors for better organization and modularity of styles.
+- **Webpack** & **Babel**: Bundling and transpiling for optimized performance.
+- **Git**: Version control, managing repositories and branching.
 
-- My goal is to continue growing as a developer and share my knowledge with the community.
+### 🔧 **State Management**
+- **Redux** (React) and **NgRx** (Angular) for centralized state management.
+- **MobX**: Reactive state management for simplicity and flexibility.
 
-<br><br>
+### 🔍 **Testing**
+- **Jest**: Unit testing and component testing.
+- **Cypress**: End-to-end testing for automating application validation.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+---
 
-<br>
+## 🏆 **Projects**
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Skills**
+### 1. **Project "Task Manager"** (Angular)
+   - **Description**: A task management app with features for adding, editing, and deleting tasks.
+   - **Technologies**: Angular, NgRx, RxJS, SCSS.
+   - **Highlights**: Full integration with a REST API for real-time data synchronization.
+   - ![Task Manager](https://media.giphy.com/media/5tOgUeLY3TyJe/giphy.gif)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C%20Sharp%20-%232370ED.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-  <br>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <br>
-  <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+### 2. **Project "Online Store"** (React)
+   - **Description**: An online store with a product catalog and shopping cart functionality.
+   - **Technologies**: React, Redux, React Router, Styled Components.
+   - **Highlights**: Multiple payment integrations, asynchronous requests using Axios.
+   - ![Online Store](https://media.giphy.com/media/l0NwXrtCvb9ZnPQ5m/giphy.gif)
 
-<br>
-<br>
+### 3. **Project "Voice Chat Platform"** (React + WebRTC)
+   - **Description**: A voice chat platform using WebRTC for peer-to-peer communication.
+   - **Technologies**: React, WebRTC, Socket.io.
+   - **Highlights**: Real-time chat rooms and multi-user support.
+   - ![Voice Chat](https://media.giphy.com/media/3o6Zt8aNE9PA6nYfFq/giphy.gif)
 
------
+---
 
-<br>
+## 💻 **How I Work**
+1. I always start with **planning the architecture** and **designing**.
+2. I write **clean and scalable code**, making use of **types** (TypeScript) and **pure functions**.
+3. I focus on **incremental improvements** rather than large rewrites.
+4. I regularly write **tests** to ensure high-quality code.
+5. I prioritize building a **user-friendly interface**, paying attention to even the smallest details.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Statistics**
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danik-Off&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
+## 📬 **Contact Me**
 
-<br>
+- 📧 Email: [your.email@example.com]
+- 🌐 LinkedIn: [your LinkedIn profile]
+- 🌍 GitHub: [your GitHub profile]
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danik-Off&theme=radical" alt="GitHub Streak" />
-</div>
+---
 
-<br>
+## 🌱 **My Approach to Development**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danik-Off&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+I am committed to **continuous learning** and always open to new ideas. In my work, I follow the principles of **clean code**, efficient **state management**, and **responsive design**.
 
-<br>
+---
 
-<br>
+**Danila Ovchinnikov | Frontend Developer**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+---
+
+*Instead of coffee, I prefer a glass of wine for celebrating successful projects 😉.*
+
+![Cheers](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
