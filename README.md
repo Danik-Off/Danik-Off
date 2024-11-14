@@ -1,84 +1,36 @@
-# 👨‍💻 **Danila Ovchinnikov** — Frontend Developer
+# Привет, я Данила! 👋
 
-Hello! I'm **Danila Ovchinnikov**, a passionate **frontend developer** specializing in **Angular** and **React**. I love building beautiful, functional, and high-performance user interfaces, solving complex problems, and creating engaging experiences. Here's a glimpse into my tech stack, projects, and how I approach development.
-
-![Frontend Developer](https://media.giphy.com/media/xT9Igppq7CpOb3UEyM/giphy.gif)
+Я frontend-разработчик, специализирующийся на **Angular** и **React**. Мне нравится создавать красивые и интерактивные веб-приложения, используя современные технологии.
 
 ---
 
-## 🚀 **My Tech Stack**
+![Header Image](https://i.giphy.com/VTtANKl0beDFQRLDTh.webp)
 
-### 🌍 **Frontend Frameworks**
-- **Angular**: A powerful framework for building large-scale applications with **RxJS** and **NgRx** for state management.
-- **React**: A lightweight library for building dynamic UIs, utilizing **Hooks** and **Context API**.
-
-### 🛠️ **Technologies & Tools**
-- **TypeScript**: Type safety that makes the code more readable and maintainable.
-- **JavaScript**: The main language for creating interactive UIs.
-- **HTML5** & **CSS3**: Structuring and styling responsive, cross-browser applications.
-- **SASS/SCSS**: CSS preprocessors for better organization and modularity of styles.
-- **Webpack** & **Babel**: Bundling and transpiling for optimized performance.
-- **Git**: Version control, managing repositories and branching.
-
-### 🔧 **State Management**
-- **Redux** (React) and **NgRx** (Angular) for centralized state management.
-- **MobX**: Reactive state management for simplicity and flexibility.
-
-### 🔍 **Testing**
-- **Jest**: Unit testing and component testing.
-- **Cypress**: End-to-end testing for automating application validation.
+### ✨ **Мои основные навыки**:
+- **Frontend-разработка**: React, Angular, TypeScript, JavaScript
+- **UI/UX дизайн**: проектирование удобных и интуитивных интерфейсов
+- **Работа с REST API и GraphQL**
+- **Веб-сокеты и WebRTC** для создания чатов и реального времени взаимодействий
 
 ---
 
-## 🏆 **Projects**
+## 💻 Технологии, с которыми я работаю
 
-### 1. **Project "Task Manager"** (Angular)
-   - **Description**: A task management app with features for adding, editing, and deleting tasks.
-   - **Technologies**: Angular, NgRx, RxJS, SCSS.
-   - **Highlights**: Full integration with a REST API for real-time data synchronization.
-   - ![Task Manager](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
-
-### 2. **Project "Online Store"** (React)
-   - **Description**: An online store with a product catalog and shopping cart functionality.
-   - **Technologies**: React, Redux, React Router, Styled Components.
-   - **Highlights**: Multiple payment integrations, asynchronous requests using Axios.
-   - ![Online Store](https://media.giphy.com/media/3o7btRJjp6M97LIVmA/giphy.gif)
-
-### 3. **Project "Voice Chat Platform"** (React + WebRTC)
-   - **Description**: A voice chat platform using WebRTC for peer-to-peer communication.
-   - **Technologies**: React, WebRTC, Socket.io.
-   - **Highlights**: Real-time chat rooms and multi-user support.
-   - ![Voice Chat](https://media.giphy.com/media/8zXxQpExZZHW1hHDqO/giphy.gif)
+<div style="width: auto; height: 200px; background-image: url('https://i.giphy.com/l2Sq72gPlwox4o2n6.webp'); background-size: cover; background-position: center -60px;"></div>
+- **Языки**: JavaScript, TypeScript, HTML, CSS
+- **Фреймворки**: React, Angular, Next.js
+- **Базы данных**: MySQL, PostgreSQL
+- **Инструменты**: Docker, Webpack, Babel
+- **Инструменты разработки**: VS Code, Git, ESLint, Prettier
 
 ---
 
-## 💻 **How I Work**
-1. I always start with **planning the architecture** and **designing**.
-2. I write **clean and scalable code**, making use of **types** (TypeScript) and **pure functions**.
-3. I focus on **incremental improvements** rather than large rewrites.
-4. I regularly write **tests** to ensure high-quality code.
-5. I prioritize building a **user-friendly interface**, paying attention to even the smallest details.
+## 🚀 Проекты
+
+### 1. [**magic**](https://github.com/yourusername/project1) 
+   Небольшой фреймворк с jsx подобным синтасисом.
+
+### 2. [**vk tweaks**](https://github.com/yourusername/project2) 
+   Расширение для браузера которое помогает кастомизировать вк.
 
 ---
-
-## 📬 **Contact Me**
-
-- 📧 Email: [your.email@example.com]
-- 🌐 LinkedIn: [your LinkedIn profile]
-- 🌍 GitHub: [your GitHub profile]
-
----
-
-## 🌱 **My Approach to Development**
-
-I am committed to **continuous learning** and always open to new ideas. In my work, I follow the principles of **clean code**, efficient **state management**, and **responsive design**.
-
----
-
-**Danila Ovchinnikov | Frontend Developer**
-
----
-
-*Instead of coffee, I prefer a glass of wine for celebrating successful projects 😉.*
-
-![Cheers](https://media.giphy.com/media/4Zo41lhzKt6iZ8xF6f/giphy.gif)
