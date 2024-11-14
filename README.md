@@ -2,7 +2,7 @@
 
 Hello! I'm **Danila Ovchinnikov**, a passionate **frontend developer** specializing in **Angular** and **React**. I love building beautiful, functional, and high-performance user interfaces, solving complex problems, and creating engaging experiences. Here's a glimpse into my tech stack, projects, and how I approach development.
 
-![Frontend Developer](https://media.giphy.com/media/3o7btRJjp6M97LIVmA/giphy.gif)
+![Frontend Developer](https://media.giphy.com/media/xT9Igppq7CpOb3UEyM/giphy.gif)
 
 ---
 
@@ -36,19 +36,19 @@ Hello! I'm **Danila Ovchinnikov**, a passionate **frontend developer** specializ
    - **Description**: A task management app with features for adding, editing, and deleting tasks.
    - **Technologies**: Angular, NgRx, RxJS, SCSS.
    - **Highlights**: Full integration with a REST API for real-time data synchronization.
-   - ![Task Manager](https://media.giphy.com/media/5tOgUeLY3TyJe/giphy.gif)
+   - ![Task Manager](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
 
 ### 2. **Project "Online Store"** (React)
    - **Description**: An online store with a product catalog and shopping cart functionality.
    - **Technologies**: React, Redux, React Router, Styled Components.
    - **Highlights**: Multiple payment integrations, asynchronous requests using Axios.
-   - ![Online Store](https://media.giphy.com/media/l0NwXrtCvb9ZnPQ5m/giphy.gif)
+   - ![Online Store](https://media.giphy.com/media/3o7btRJjp6M97LIVmA/giphy.gif)
 
 ### 3. **Project "Voice Chat Platform"** (React + WebRTC)
    - **Description**: A voice chat platform using WebRTC for peer-to-peer communication.
    - **Technologies**: React, WebRTC, Socket.io.
    - **Highlights**: Real-time chat rooms and multi-user support.
-   - ![Voice Chat](https://media.giphy.com/media/3o6Zt8aNE9PA6nYfFq/giphy.gif)
+   - ![Voice Chat](https://media.giphy.com/media/8zXxQpExZZHW1hHDqO/giphy.gif)
 
 ---
 
@@ -81,4 +81,4 @@ I am committed to **continuous learning** and always open to new ideas. In my wo
 
 *Instead of coffee, I prefer a glass of wine for celebrating successful projects 😉.*
 
-![Cheers](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
+![Cheers](https://media.giphy.com/media/4Zo41lhzKt6iZ8xF6f/giphy.gif)
