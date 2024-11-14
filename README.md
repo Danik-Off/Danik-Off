@@ -28,7 +28,7 @@
 
 ## 🚀 Проекты
 
-### 1. [**magic**](https://github.com/yourusername/project1) 
+### 1. [**magic**](https://github.com/Danik-Off/magic)
    Небольшой фреймворк с jsx подобным синтасисом.
 
 ### 2. [**vk tweaks**](https://github.com/yourusername/project2) 
