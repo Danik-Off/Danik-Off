@@ -17,6 +17,7 @@
 ## 💻 Технологии, с которыми я работаю
 
 <div style="width: auto; height: 200px; background-image: url('https://i.giphy.com/l2Sq72gPlwox4o2n6.webp'); background-size: cover; background-position: center -60px;"></div>
+
 - **Языки**: JavaScript, TypeScript, HTML, CSS
 - **Фреймворки**: React, Angular, Next.js
 - **Базы данных**: MySQL, PostgreSQL
