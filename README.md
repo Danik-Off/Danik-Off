@@ -26,18 +26,6 @@
 
 ---
 
-## 🚀 Проекты
-
-### 1. [**magic**](https://github.com/Danik-Off/magic)
-   Небольшой фреймворк с jsx подобным синтасисом.
-   
-### 2. [**vk tweak**](https://github.com/Danik-Off/vk_tweaks) 
-   Расширение для браузера которое помогает кастомизировать вк.
-
-### 3. [**projectVoice**](https://github.com/Danik-Off/projectVoice)
-   Голосовой чат основаный на webrtc с peer to peer подключением 
-
----
 ## 🌱 Как со мной связаться?
 
 <div style="width: auto; height: 300px; background-image: url('https://i.giphy.com/JKvxJN5d9L1HOfjZ6r.webp'); background-size: cover; background-position: center -130px;">
