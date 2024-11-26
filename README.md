@@ -30,9 +30,12 @@
 
 ### 1. [**magic**](https://github.com/Danik-Off/magic)
    Небольшой фреймворк с jsx подобным синтасисом.
-
-### 2. [**vk tweaks**](https://github.com/yourusername/project2) 
+   
+### 2. [**vk tweak**](https://github.com/Danik-Off/vk_tweaks) 
    Расширение для браузера которое помогает кастомизировать вк.
+
+### 3. [**projectVoice**](https://github.com/Danik-Off/projectVoice)
+   Голосовой чат основаный на webrtc с peer to peer подключением 
 
 ---
 ## 🌱 Как со мной связаться?
