@@ -31,7 +31,7 @@
 <div style="width: auto; height: 300px; background-image: url('https://i.giphy.com/JKvxJN5d9L1HOfjZ6r.webp'); background-size: cover; background-position: center -130px;">
 </div>
 
-- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/Danik-Off)
+- 🧑‍💻 GitHub: [github.com/Danik-Off](https://github.com/Danik-Off)
 - Telegram: [@suzenebl](https://t.me/suzenebl)
 ---
 
