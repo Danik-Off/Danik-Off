@@ -47,11 +47,11 @@ AI-система для автоматического ревью кода на
 - **Особенности**: Автоматический анализ кода, предложения улучшений
 - **🔗 Ссылка**: [github.com/Danik-Off/miniReviewer](https://github.com/Danik-Off/miniReviewer)
 
-### 📺 **ruvid**
-Приложение-агрегатор видео контента (ВКонтакте, RuTube, Sashlik)
-- **Технологии**: React, API интеграции, Web Scraping
+### 📺 **WIN CLIEANER LAMP**
+Приложение для очистки windows cli+gui
+- **Технологии**: React, Go, Electron
 - **Особенности**: Единый интерфейс для разных платформ
-- **🔗 Ссылка**: [github.com/Danik-Off/ruvid](https://github.com/Danik-Off/ruvid)
+- **🔗 Ссылка**: [github.com/Danik-Off/winCleanerLamp](https://github.com/Danik-Off/winCleanerLamp)
 
 ---
 
